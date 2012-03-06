@@ -32,7 +32,7 @@ public class AuditorTest {
 		auditor2 = new Auditor(accounts,2);
 		
 		accounts.attach(auditor1);
-		//accounts.attach(auditor2);
+		accounts.attach(auditor2);
 		
 	}
 		
